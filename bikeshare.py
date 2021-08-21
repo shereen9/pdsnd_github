@@ -132,6 +132,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
+# this is the end of the script
 
 if __name__ == "__main__":
 	main()
